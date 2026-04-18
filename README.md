@@ -2,7 +2,7 @@
 
 # Devashish Shrivastav
 
-### Full Stack Developer · AI/ML Enthusiast · B.Tech CSE 
+### Full Stack Web Developer · AI/ML Enthusiast · B.Tech CSE 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashish-shrivastav-1231183b0/)
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with hands-on experience designing and building **production-ready web applications** using **Next.js, TypeScript, PostgreSQL, and React**. Proven ability to deliver end-to-end features — from REST API design and database schema to frontend UI. Passionate about AI/ML and building intelligent systems.
+Full Stack Web Developer with hands-on experience designing and building **production-ready web applications** using **Next.js, TypeScript, PostgreSQL, and React**. Proven ability to deliver end-to-end features — from REST API design and database schema to frontend UI. Passionate about AI/ML and building intelligent systems.
 
 ---
 
